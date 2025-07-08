@@ -15,3 +15,6 @@
 - Upon selection of a pokemon, navigate to a profile card where you show some details about the selected pokemon
 The detailed profile card needs to include: a picture of the pokemon, name of pokemon, weight, height, not hidden abilities
 - On the same screen implement a 'catch' button. On click, the pokemon should be catched. You will need to mark the catched pokemons on the list (for example: green border around the name). When a pokemon is catched, the button should turn to 'release', so if you want to release them back to the wild you can.
+- Implement a checkbox next to the search bar to list only your catched pokemons.
+- Add some navigation to go back on the webpage, and do not fetch the data again
+- Use a loader / spinner while fetching data.
